@@ -1,0 +1,111 @@
+[
+    {
+      "reference": "Accor",
+      "designation": "MantisMGalleryArt SeriesMondrianPullmanSwissôtelAngsana25 HoursHydeMövenpickGrand MercurePeppersThe Sebel",
+      "prix": 100,
+      "place": "Paris",
+      "etat": "Available",
+      "imageart": [
+        "https://etimg.etb2bimg.com/photo/87336220.cms",
+        "https://all.accor.com/middleware/images/1385773076315/1672212446010/1385773076329.jpg",
+        "https://all.accor.com/middleware/images/1385753448313/1638375863489/1385754322674.jpg"
+      ]
+    },
+    {
+      "reference": "Aman Resorts",
+      "designation": "Aman Resorts is the trading entity of Aman Group Sarl, a Swiss-headquartered multinational hospitality company. Founded by Indonesian hotelier Adrian Zecha in 1988, the company operates 34 properties in 20 countries. Vladislav Doronin is the chief executive officer, chairman, and owner",
+      "prix": 150,
+      "place": "the island of Phuket",
+      "etat": "Booked",
+      "imageart": [
+        "https://www.aman.com/sites/default/files/2021-02/210204_AmanHero_Landscape_Amangiri.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ-vM7g5BU8XLU_9TwRSkpP3vCN8EuO8gcwtfV6n3OS6Ffs8-IcfJKgBhGdko9OP1J1Qw&usqp=CAU",
+        "https://media.cntraveler.com/photos/5e5fc46a84952b000801f415/16:9/w_2560%2Cc_limit/Janu-AmanResorts-2020-4.jpg"
+      ]
+    },
+    {
+      "reference": "APA",
+      "designation": "APA Group (Japanese: アパグループ, Apa Gurūpu, commonly known as APA, Always Pleasant Amenities) is a Japanese hospitality group that operates APA Hotels. APA Hotels operates in Japan with more than 300 properties",
+      "prix": 200,
+      "place": "Janan",
+      "etat": "Available",
+      "imageart": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/85/50/6e/caption.jpg?w=700&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/d3/51/d3/twin-room--v12936989.jpg?w=700&h=-1&s=1",
+        "https://pix10.agoda.net/hotelImages/936/936623/936623_17072117210054605577.jpg?ca=6&ce=1&s=1024x768"
+      ]
+    },
+    {
+      "reference": "archipelago international",
+      "designation": "Archipelago International, formerly known as Aston International",
+      "prix": 120,
+      "place": "Jakarta",
+      "etat": "Available",
+      "imageart": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1QOyvBCnn5o59OeCMhOngWoxaPpXnkghePA&usqp=CAU",
+        "https://www.retailnews.asia/wp-content/uploads/2015/06/HARPER-KUTA-swimming-pool-1024x682.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgJNaeyXvJrLzCAdwznzT00ehL-CaRGVpsRQ&usqp=CAU"
+      ]
+    },
+    {
+      "reference": "The Plaza",
+      "designation": "The Plaza Hotel is a luxury hotel and condominium apartment building in Midtown Manhattan in New York City",
+      "prix": 180,
+      "place": "New York",
+      "etat": "Booked",
+      "imageart": [
+        "https://plaza-hotel-new-york.booked.net/data/Photos/OriginalPhoto/12760/1276088/1276088959/The-Plaza-Hotel-New-York-Exterior.JPEG",
+        "https://www.fairmont.com/assets/0/104/3225/3230/4116/4124/6838fa59-8d09-4eb5-984a-01dab4bc1f07.jpg",
+        "https://imageio.forbes.com/specials-images/imageserve/609ddf66d4689bfaf4aa84f2/0x0.jpg?format=jpg&width=1200"
+      ]
+    },
+    {
+      "reference": "Atlantis Paradise Island Bahamas",
+      "designation": "Paradise Island Hotel and Casino is located on Paradise Island, which is a small island in the Bahamas that is connected to the larger island of New Providence by two bridges",
+      "prix": 90,
+      "place": "Florida",
+      "etat": "Available",
+      "imageart": [
+        "https://uniqhotels.com/media/hotels/fa-hotel-orig/atlantisparadiseisland.jpg.700x345_q85_box-0%2C117%2C997%2C607_crop_detail.jpg",
+        "https://www.atlantisbahamas.com/storage/media/legacy/fb/RT_FB_1200x630.jpg",
+        "https://e291f1206726d700191b-d0cedd1cc05016668dc83bc2742129e5.ssl.cf1.rackcdn.com/windsong/media/img-3-5fcfab84c2b94.jpg"
+      ]
+    },
+    {
+      "reference": "Burj Al Arab Jumeirah",
+      "designation": "The Burj Al Arab is a luxury hotel located in the city of Dubai, United Arab Emirates",
+      "prix": 780,
+      "place": "Dubai",
+      "etat": "Available",
+      "imageart": [
+        "https://cdn.jumeirah.com/-/mediadh/dh/hospitality/jumeirah/article/stories/dubai/15-amazing-facts-about-the-burj-al-arab/burj-al-arab-jumeirah-jumeirah-beach-hotel-jumeirah-al-naseem-private-beach-drone_6-4.jpg",
+        "https://www.visitdubai.com/-/media/gathercontent/poi/b/burj-al-arab/fallback-image/burj-al-arab-dtcm-01.jpg?rev=0801267f111d4d69ac1b4415eefba8a0&cx=0.58&cy=0.52&cw=397&ch=397",
+        "https://curlytales.com/wp-content/uploads/2021/11/ca221d80976311e7ae5d0a4cef95d023.jpg"
+      ]
+    },
+    {
+      "reference": "oberoi udaivilas",
+      "designation": "Udaipur, India. Aerial view of The Oberoi Udaivilas. Courtesy of Oberoi Hotels & Resorts. The regal energy of this palace hotel",
+      "prix": 130,
+      "place": "Udaipur",
+      "etat": "Booked",
+      "imageart": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0b/7d/0d/premier-rooms-with-semi.jpg?w=700&h=-1&s=1",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6fS2uKIOfvkuQP3uhs6F9F-U83bQmCoxY4_426HNic2AH69Cn2pS1vIr8TY5QNAnbGA&usqp=CAU",
+        "https://cdn1.goibibo.com/voy_ing/t_g/987e68e0fadd11e89ecb0242ac110003.jpg"
+      ]
+    },
+    {
+      "reference": "Westin Excelsior",
+      "designation": "Offering the true 'Roman Emperor' experience, The Westin Excelsior is not only a luxury hotel but a prized landmark too",
+      "prix": 160,
+      "place": "Rome",
+      "etat": "Available",
+      "imageart": [
+        "https://pix10.agoda.net/hotelImages/633/63379/63379_15062512040030778414.jpg?ca=4&ce=1&s=1024x768",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/178599230.jpg?k=3d5996a534cbcebc26c21595ad8c46bddf98d73baa6195c191d10293684ad50a&o=&hp=1",
+        "https://pix10.agoda.net/hotelImages/633/63379/63379_19051604170074523286.jpg?ca=8&ce=1&s=1024x768"
+      ]
+    }
+  ]
+  
